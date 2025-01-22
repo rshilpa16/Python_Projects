@@ -4,14 +4,17 @@ This is a simple command-line To-Do List application built using Python. It allo
 
 ## Features
 
-Add a new task.
-Delete a tasks.
-List Task.
-Quit.
+Add a new task
+
+Delete a tasks
+
+List Task
+
+Quit
 
 ## Requirements
 
-Python 3.x or above.
+Python 3.11 or above.
 
 ## Installation
 
