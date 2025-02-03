@@ -1,4 +1,14 @@
-# To-Do List App(Python)
+# Python Projects
+
+# 1 Guessing Game
+
+This is simple guessing game using python where user will get the chance to guess the number between 1 and 100.
+
+## Features
+
+Used Random library to generate random number between 1 and 100
+
+# 2 To Do List App
 
 This is a simple command-line To-Do List application built using Python. It allows users to add, view, update, and delete tasks. The app stores tasks in a CSV file, so your to-do list is saved between sessions.
 
