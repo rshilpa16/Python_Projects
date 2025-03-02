@@ -1,6 +1,6 @@
 # To Do List App
 
-This is a simple command-line To-Do List application built using Python. It allows users to add, view, update, and delete tasks. The app stores tasks in a CSV file, so your to-do list is saved between sessions.
+This is a simple command line To-Do List application built using Python. It allows users to add, view, update, and delete tasks. The app stores tasks in a CSV file, so your to-do list is saved between sessions.
 
 ## Features
 
